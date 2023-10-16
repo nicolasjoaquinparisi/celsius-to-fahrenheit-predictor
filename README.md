@@ -2,4 +2,4 @@
 
 ## Descripción
 
-Modelo Machine Learning de tipo Regresión Lineal que aprenda a convertir grados celsius a farenheit.
+Modelo Machine Learning de tipo Regresión Lineal que aprende a convertir grados celsius a farenheit.
